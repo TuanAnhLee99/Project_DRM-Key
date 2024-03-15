@@ -1,3 +1,4 @@
+## **DRM - Key:**
 Muốn xem nội dung có bản quyền , phải có key DRM , mà muốn có key DRM thì phải mua
 
 ==> Ảnh hưởng đến Budget , chi phí , lợi nhuận ...
